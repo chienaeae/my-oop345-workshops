@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "istream": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "iomanip": "cpp"
+  }
+}
